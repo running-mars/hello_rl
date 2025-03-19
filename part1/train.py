@@ -1,13 +1,3 @@
-"""
-Description:
-    - Train the UAVs to navigate from a point to another
-    - Using 'SubprocVecEnv' for speedup with multiple envs in parallel
-    - The network is customized MLP
-
-Authors:
-    - Running-Mars
-"""
-
 import time
 
 from stable_baselines3 import PPO

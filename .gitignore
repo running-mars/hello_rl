@@ -1,0 +1,11 @@
+*.pyc
+*.zip
+
+.idea
+
+/part1/best_model.zip
+/part1/tb_logs/
+
+/part2/best_model.zip
+/part2/tb_logs/
+
